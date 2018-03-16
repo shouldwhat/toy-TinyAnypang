@@ -39,6 +39,8 @@
 	*. **게임 시작(=run)**
 	![](/images/sequence_run.png)
 	
+	
+	
 	*. **제거 대상 추출(=detectLinkedPosition)**
 	![](/images/sequence_detectLinkedPosition.png)
 	
